@@ -33,6 +33,17 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![MatLab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+
+## Análisis de Github
+
+<p align="center">
+<a href="https://github.com/jose-marin-garcia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jose-marin-garcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jose-marin-garcia&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **jose-marin-garcia/jose-marin-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
