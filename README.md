@@ -6,7 +6,6 @@
 🌱 Estoy en proceso de aprender más sobre arquitectura en la nube y mejorar mis habilidades en frameworks como Vue.js y Spring Boot.\
 ✍️ En mi tiempo libre, disfruto trabajar en proyectos creativos, como aplicaciones web personalizadas y herramientas prácticas para resolver problemas cotidianos.\
 💬 No dudes en contactarme para colaborar en proyectos, intercambiar ideas o discutir soluciones técnicas interesantes.\
-✉️ Puedes escribirme al correo jose.marin.g@usach.cl y haré todo lo posible por responder lo antes posible.\
 📄 Te invito a revisar mis proyectos recientes para conocer más sobre mí. ¡Estoy abierto a nuevas ideas y desafíos!\
 
 ## 🛠 Tecnologías
@@ -43,6 +42,19 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jose-marin-garcia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jose-marin-garcia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+## Conéctate conmigo
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADn-8b31281bb/"><img src="https://img.shields.io/badge/-José%20Marín-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jose.marin.g@usach.cl"><img src="https://img.shields.io/badge/-jose.marin.g@usach.cl-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!--
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+  -->
 </p>
 
 <!--
