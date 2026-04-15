@@ -6,7 +6,7 @@
 🌱 Estoy en proceso de aprender más sobre arquitectura en la nube y mejorar mis habilidades en frameworks como Vue.js y Spring Boot.\
 ✍️ En mi tiempo libre, disfruto trabajar en proyectos creativos, como aplicaciones web personalizadas y herramientas prácticas para resolver problemas cotidianos.\
 💬 No dudes en contactarme para colaborar en proyectos, intercambiar ideas o discutir soluciones técnicas interesantes.\
-📄 Te invito a revisar mis proyectos recientes para conocer más sobre mí. ¡Estoy abierto a nuevas ideas y desafíos!\
+📄 Te invito a revisar mis proyectos recientes para conocer más sobre mí. ¡Estoy abierto a nuevas ideas y desafíos!
 
 ## 🛠 Tecnologías
 
